@@ -1,0 +1,16 @@
+h1 {
+    color:gold;
+}
+
+p {
+    font-weight: bold;
+}
+
+ul {
+    list-style: none;
+}
+
+img {
+    height: 250px;
+    width: 400px;
+}
